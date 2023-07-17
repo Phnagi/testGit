@@ -116,3 +116,4 @@ let text2 = document.getElementsByClassName("text");
 
 console.log(test.childNodes);
 console.log(test2[0].childNodes);
+//1221212
